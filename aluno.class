@@ -1,0 +1,15 @@
+public class aluno{
+
+     String nome;
+	 String idade;
+
+     public void inserir () {
+     aluno aluno = new aluno ();
+	 
+	 aluno.setnome ("joao vitor");
+	 aluno.setidade(31);
+	 }
+	 public void SetNome(String nome){
+      this.nome = nome;
+
+}
