@@ -2,15 +2,14 @@ public class aluno{
 
      String nome;
 	 String idade;
-
+	 String genero;
      public void inserir () {
      aluno aluno = new aluno ();
-	 
+	     paz
 	 aluno.setnome ("joao vitor");
 	 aluno.setidade(31);
 	 }
 	 public void SetNome(String nome){
       this.nome = nome;
   teste
-  
 }
